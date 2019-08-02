@@ -1,5 +1,5 @@
 {
-    "name": "fewbox-antd-theme",
+    "name": "@fewbox/antd-theme",
     "version": "0.0.1",
     "description": "FewBox antd official theme",
     "main": "dist/index.js",
