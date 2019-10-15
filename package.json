@@ -1,6 +1,6 @@
 {
     "name": "@fewbox/antd-theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "FewBox antd official theme",
     "main": "dist/index.js",
     "scripts": {
@@ -27,6 +27,7 @@
         "access": "public"
     },
     "devDependencies": {
+        "@types/node": "^12.7.12",
         "@typescript-eslint/eslint-plugin": "^1.13.0",
         "@typescript-eslint/parser": "^1.13.0",
         "eslint": "^6.1.0",
